@@ -3,7 +3,7 @@ ob_start();
 header("Content-Type: text/javascript; charset=utf-8"); 
 ?>
 <div id="pjGasCalcContainer" class="container" style="display:none;">
-	<h2 class="text-center">Gas Mileage Calculator</h2>
+	<h2 class="text-center">Gas Mileage Calculator prepared by Venkat</h2>
 	
 	<form id="pjGasCalcForm" action="#" method="post" enctype="multipart/form-data" class="form-horizontal">
 		<div class="form-group">
